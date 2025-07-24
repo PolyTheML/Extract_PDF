@@ -1,6 +1,4 @@
-# For OpenCV, a Camelot dependency
 libgl1-mesa-glx
 
-# For Camelot
 ghostscript
 tk
